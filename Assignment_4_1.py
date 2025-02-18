@@ -1,3 +1,7 @@
+# Link to server
+# https://assignment41-avbmtotvaktlgvaek6lar2.streamlit.app/
+
+
 import streamlit as st
 import requests
 import json
